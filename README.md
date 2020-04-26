@@ -1,2 +1,2 @@
 # test-conflict
-this is just a test repo for different kinds of conflicts
+this is just a test repo for kinds of conflicts
